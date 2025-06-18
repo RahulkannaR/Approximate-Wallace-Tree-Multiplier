@@ -101,6 +101,7 @@ Simulation verified on 8-bit inputs with known correct results:
 
 ## 📁 Project Structure
 
+```
 ApproxWallaceMultiplier/
 ├── README.md                          # Project overview and documentation
 ├── src/                               # Source files
@@ -114,10 +115,10 @@ ApproxWallaceMultiplier/
 │   ├── area_report.png                # Area utilization (LUTs, IOBs)
 │   ├── power_report.png               # Power analysis
 │   └── timing_report.png              # Timing summary (WNS, TNS, etc.)
-├── docs/                              # Documentation and diagrams
-│   └── architecture_diagram.png       # Optional: architecture/block diagram
-└── vivado_project/                    # Vivado project files (optional)
+├── architecture_diagram.png           # Architecture/block diagram
+└── vivado_project/                    # Vivado project files
     └── ApproxWallaceMultiplier.xpr    # Vivado project file
+```
 
 ---
 
