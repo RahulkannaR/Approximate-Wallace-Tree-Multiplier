@@ -1,0 +1,7 @@
+INFO: [Wavedata 42-604] Simulation restarted
+run all
+Time=0 | A= 12, B=  3 => Product=   36
+Time=10000 | A=  5, B=  7 => Product=   35
+Time=20000 | A= 15, B= 15 => Product=  225
+Time=30000 | A=100, B= 50 => Product= 5000
+$finish called at time : 40 ns : File "C:/Users/rahul/vivado/ApproxWallaceMultiplier/ApproxWallaceMultiplier.srcs/sim_1/new/testbench.v" Line 22
