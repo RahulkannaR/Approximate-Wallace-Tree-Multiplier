@@ -141,7 +141,7 @@ ApproxWallaceMultiplier/
 
 ## 🔓 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed, so use it for _**educational purpose only**_.
 
 ---
 
